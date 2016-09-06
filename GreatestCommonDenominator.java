@@ -1,8 +1,8 @@
-package least.common.denominator;
+package greatest.common.denominator;
 
 import java.util.Scanner;
 
-public class LeastCommonDenominator {
+public class GreatestCommonDenominator {
 
     public static void main(String[] args) {
         //I want to create the least common denominator program
